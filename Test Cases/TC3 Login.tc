@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 Login</name>
+   <tag>login, daily</tag>
+   <comment></comment>
+   <testCaseGuid>8e2d5aef-0acd-4c3f-8654-5bcee26841f7</testCaseGuid>
+</TestCaseEntity>

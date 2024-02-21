@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 Login - Keyword</name>
+   <tag>login, daily</tag>
+   <comment></comment>
+   <testCaseGuid>eb87d355-f876-4104-95ca-d4e0ef018fa4</testCaseGuid>
+</TestCaseEntity>

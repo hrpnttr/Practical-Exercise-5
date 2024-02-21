@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 Make Appointment - Keyword</name>
+   <tag>appointment</tag>
+   <comment></comment>
+   <testCaseGuid>d58af7fb-9893-4cfe-aea2-6718cf771fc5</testCaseGuid>
+</TestCaseEntity>
